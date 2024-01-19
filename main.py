@@ -80,7 +80,7 @@ layout = [
     ]
 ]
 
-window = sg.Window("Script GUI wrapper", layout, margins=(100, 100), location=(1000, 1000))
+window = sg.Window("Script GUI wrapper", layout, margins=(50, 50), location=(100, 100))
 
 while True:
     event, values = window.read()

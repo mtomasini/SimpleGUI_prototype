@@ -10,6 +10,6 @@ There is a plethora of ways to avoid the problems that I described, here I focus
 
 I illustrate this through a simple script with a few functions that take two or three parameters, and outputs different plots.
 
-The result looks ancient, but is perfectly functional, allowing to change parameters, run an underlying script and fetch figures directly from a folder:
+To run the GUI, once all the packages are installed (I will prepare a `.yml` file if someone is interested), just run `python main.py`.
 
 ![A beautiful, simple GUI!](/mockup_script_GUI_wrapper.png)
